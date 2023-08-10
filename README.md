@@ -1,3 +1,6 @@
-# MyLazyVim
+# 自定义 LazyVim 配置
 
-个人自用 LazyVim 配置。
+keymaps:
+
+- `q` close buffer
+- `<S-Space>` enable / disable IME
