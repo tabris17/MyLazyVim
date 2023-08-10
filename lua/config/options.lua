@@ -8,6 +8,7 @@ local glob = vim.g
 opt.relativenumber = false
 opt.shell = "pwsh -nologo"
 opt.guifont = "UbuntuMono Nerd Font:h12"
+opt.linespace = 2
 
 if glob.neovide then
   glob.neovide_refresh_rate = 120
